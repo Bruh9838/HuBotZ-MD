@@ -1,0 +1,18 @@
+{
+    "wait": "🇺🇸 Just A Moment. . .\n\n🇮🇩 Mohon Tunggu Sebentar. . .",
+    "emror": {
+        "Iv": "🇺🇸 The link you provided is invalid!\n\n🇮🇩 Link yang kamu berikan tidak valid!",
+        "api": "🇺🇸 The ApiKey is Error!\n\n🇮🇩 terjadi kesalahan pada ApiKey!",
+        "feature": "🇺🇸 This feature is having an error, please notify the owner!\n\n🇮🇩 Fitur ini sedang Error, Mohon beritahu Owner!"
+    },
+    "OnlyGrup": "🇺🇸 This command can only be used in groups!\n\n🇮🇩 Perintah ini hanya bisa digunakan di grup!",
+    "OnlyPM": "🇺🇸 This command can only be used in private messages!\n\n🇮🇩 Perintah ini hanya bisa digunakan di private message!",
+    "GrupAdmin": "🇺🇸 This command can only be used by Group Admins!\n\n🇮🇩 Perintah ini hanya bisa digunakan oleh Admin Grup!",
+    "BotAdmin": "🇺🇸 Bot Must be an admin first!\n\n🇮🇩 Bot Harus menjadi admin!",
+    "OnlyOwner": "🇺🇸 This command can only be used by the Owner!\n\n🇮🇩 Perintah ini hanya dapat digunakan oleh Owner!",
+    "OnlyPrem": "🇺🇸 This command is specifically for premium users!\n\n🇮🇩 Perintah ini khusus user premium!",
+    "EndLimit": "🇺🇸 Your daily limit has run out, but the limit is reset every 12 noon!\n\n🇮🇩 Limit harian kamu sudah habis, tapi limit di reset setiap jam 12 siang!",
+    "EndLimitGame": "🇺🇸 Your daily game limit has run out, but the limit is reset every 12 noon!\n\n🇮🇩 Limit game harian kami sudah habis, tapi limit game direset setiap jam 12 siang!",
+    "KurangLimit": "🇺🇸 You don't have enough limits to use this feature!\n\n🇮🇩 Kamu tidak memiliki cukup limit untuk menggunakan fitur ini!",
+    "Tunggu": "🇺🇸 Please wait, if the bot doesn't send a message, please repeat the command!\n\n🇮🇩 Silahkan ditunggu, jika bot tidak mengirimkan pesan silahkan diulang command tersebut!"
+}
